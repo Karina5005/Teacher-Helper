@@ -8,7 +8,7 @@
 
 Пример запуска:
 ```
-  python transpose.py examples/Lena.jpg examples/Lena_result.jpg
+python transpose.py examples/Lena.jpg examples/Lena_result.jpg
 ```
 
 ## Task 2
